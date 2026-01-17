@@ -1,6 +1,6 @@
 # Restaurant Queue System
 
-A rapid prototype built to verify the potential of "Vibe Coding" – coded using **AntiGravity** and **Google DeepMind's Gemini 2.0 Flash** models to quickly generate working software solutions.
+A rapid prototype built to verify the potential of "Vibe Coding" – coded using **AntiGravity** and **Gemini 2.0 Flash** model to quickly generate working software solution.
 
 ## Purpose
 
