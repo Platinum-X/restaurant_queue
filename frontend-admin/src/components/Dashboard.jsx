@@ -23,7 +23,7 @@ export default function Dashboard() {
 
     const [cancelReason, setCancelReason] = useState('');
     const [cancelType, setCancelType] = useState('Staff Cancelled');
-    const [guestBaseUrl, setGuestBaseUrl] = useState('https://torpid-cira-noncontiguously.ngrok-free.dev');
+    const [guestBaseUrl, setGuestBaseUrl] = useState(import.meta.env.GUEST_APP);
     const [isEditingUrl, setIsEditingUrl] = useState(false);
     const [expandedQR, setExpandedQR] = useState(null);
     const [now, setNow] = useState(new Date());
