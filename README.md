@@ -59,3 +59,8 @@ npm run dev
 > ngrok http 5174
 > ```
 > Then update `frontend-admin/.env` with the public URL (e.g., `GUEST_APP=https://your-url.ngrok-free.dev`).
+
+## Author
+
+**Phil Servis**  
+Email: phil.servis@live.co.uk
